@@ -10,6 +10,7 @@ body{
     flex-direction: column;
     align-items: center;
     row-gap: 5vh;
+    background-color: burlywood;
 }
 .image{
     height: 40vh;
@@ -19,7 +20,7 @@ body{
     overflow: hidden;
 }
 .social{
-    padding: 1vh 5vh;
+    padding: 1vh 10vh;
     border: 3px solid black;
     border-radius: 1vh;
     font-weight: 700;
